@@ -17,4 +17,5 @@ npm run dev
 
 # Preview
 
-![image](https://github.com/ZainNasir2561/PlacePicker/assets/102922448/580144dc-f5d3-45d9-8922-d2a7d8e4ddd1)
+![Screenshot (39)](https://github.com/ZainNasir2561/PlacePicker/assets/102922448/72eb3086-c4bd-4989-944b-295291082c49)
+
