@@ -1,5 +1,5 @@
 # Place Picker Project
-Welcome to the Vacation Destinations Gallery project repository! This project is a beautiful showcase of React's capabilities, particularly focusing on state management and the effective use of React Hooks such as useState, useEffect, useCallback, and useRef.
+Welcome to the Place Picker project repository! This project is a beautiful showcase of React's capabilities, particularly focusing on state management and the effective use of React Hooks such as useState, useEffect, useCallback, and useRef.
 
 # Project Description
 Imagine a virtual gallery where you can explore a collection of dream vacation destinations. This project is designed to let you browse through these destinations and select your next adventure. It serves as a practical application of React's state management and Hooks, demonstrating how to create an interactive and responsive user interface.
@@ -17,7 +17,7 @@ Reference Management with useRef: Uses useRef to manage references to DOM elemen
 - Direct DOM Access: Employs useRef for direct access to DOM elements, facilitating operations like scrolling to a selected destination without affecting the overall component structure.
 
 # Conclusion
-The Vacation Destinations Gallery project is a testament to the power of React Hooks in building dynamic and responsive web applications. It showcases my ability to implement state management and optimize performance using React's built-in hooks. This project is a step towards mastering React and exploring its full potential for creating engaging user experiences.
+The Place Picker project is a testament to the power of React Hooks in building dynamic and responsive web applications. It showcases my ability to implement state management and optimize performance using React's built-in hooks. This project is a step towards mastering React and exploring its full potential for creating engaging user experiences.
 
 Feel free to explore the codebase, suggest improvements, or contribute to the project. Your feedback is always welcome!
 
